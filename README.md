@@ -37,6 +37,6 @@
 </p>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=requenavictor&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=c6a0f6&text_color=cad3f5&bg_color=232634&border_color=%23a6da95&border_radius=8" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=requenavictor&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=c6a0f6&text_color=cad3f5&bg_color=232634&border_color=%a6da95&border_radius=8" alt="GitHub top-langs Card" />
 </p>
 
